@@ -1,0 +1,11 @@
+.page-header {
+    margin-top: 0;
+    border-radius: 0 0 10px 10px;
+    padding:10px;
+    background-color: honeydew;
+}
+.footer {
+    background-color:lavender;
+    padding: 4px;
+    border-radius: 10px;
+}
